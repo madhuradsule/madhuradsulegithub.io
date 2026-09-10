@@ -1,4 +1,8 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Madhur.A.Adsule]
+  - jekyll-remote-theme
+
+title: Madhur.A.Adsule
+description: Data Analyst | Computer Science Engineer
+show_downloads: false
